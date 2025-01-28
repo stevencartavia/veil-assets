@@ -17,6 +17,7 @@ const features: FeatureProps[] = [
     { title: "Aztec-Powered Security", description: "Leverage cutting-edge account abstraction for seamless and confidential transactions.", icon: Repeat },
 ];
 
+
 const Features: FC = () => {
     return (
         <Fade>
