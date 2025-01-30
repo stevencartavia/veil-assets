@@ -4,7 +4,7 @@
 
 Veil Assets is a **privacy-focused decentralized application (dApp)** built on the **Aztec Network**, designed to provide users with **secure and confidential asset management**. By leveraging **private and public state management**, Veil Assets ensures seamless portfolio management, yield farming, and cross-chain transactions, all while keeping sensitive data protected.
 
-With **Aztec’s Private Execution Environment (PXE)** and token bridge, users can interact with DeFi protocols privately, rebalance portfolios, and bridge assets across different chains, ensuring compromising their financial privacy.
+With **Aztec’s Private Execution Environment (PXE)** and token bridge, users can interact with DeFi protocols privately, rebalance portfolios, and bridge assets across different chains, ensuring no compromise on their financial privacy.
 
 ## Key Features
 
@@ -28,6 +28,14 @@ With **Aztec’s Private Execution Environment (PXE)** and token bridge, users c
 - Prevent **information leakage** with **encrypted events** and **private state**.
 - Ensure **secure interactions** with external protocols while safeguarding user anonymity.
 
+### Why Veil Assets?
+
+- **True financial sovereignty:** Take control of your assets without compromising privacy.
+
+- **Cutting-edge privacy tech:** Built on Aztec’s ZK-powered infrastructure for top-tier security.
+
+- **Seamless UX:** Confidential transactions that feel as smooth as traditional DeFi.
+
 ## Contributing
 
 We welcome community contributions! Please check out our [Contributing guidelines](./CONTRIBUTING.md) on how to get involved.
@@ -37,5 +45,3 @@ We welcome community contributions! Please check out our [Contributing guideline
 This project is licensed under the **MIT License**. See [LICENSE](./LICENSE.md) for details.
 
 ---
-
-Stay tuned for updates and new features!
