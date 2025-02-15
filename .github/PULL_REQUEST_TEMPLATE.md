@@ -1,11 +1,7 @@
 ## Description
 
 <!-- A brief description of what this pull request does. Why is this change being made? -->
-
-## Related Issue
-
 <!-- Link to the issue this pull request addresses (if applicable). -->
-<issue-number>
 
 ## Checklist
 
