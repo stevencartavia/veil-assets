@@ -1,0 +1,9 @@
+[package]
+name = "account"
+authors = [""]
+type = "contract"
+
+[dependencies]
+aztec = { git="https://github.com/AztecProtocol/aztec-packages/", tag="aztec-packages-v0.76.4", directory="noir-projects/aztec-nr/aztec" }
+authwit = { git="https://github.com/AztecProtocol/aztec-packages/", tag="aztec-packages-v0.76.4", directory="noir-projects/aztec-nr/authwit"}
+schnorr = { tag = "v0.1.1", git = "https://github.com/noir-lang/schnorr" } 
