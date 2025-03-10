@@ -1,3 +1,5 @@
+[![](https://img.shields.io/github/license/stevencartavia/veil-assets)](https://github.com/stevencartavia/veil-assets/blob/main/LICENSE.md)
+
 # Veil Assets
 
 ## Overview
