@@ -1,5 +1,4 @@
 use dep::aztec::macros::aztec;
-mod test;
 
 #[aztec]
 pub contract PrivateToken {
