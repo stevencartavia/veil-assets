@@ -1,4 +1,5 @@
-[![](https://img.shields.io/github/license/stevencartavia/veil-assets)](https://github.com/stevencartavia/veil-assets/blob/main/LICENSE.md)
+[![Aztec.nr](https://img.shields.io/badge/Aztec.nr-v3.0.0-000000)](https://aztec.network)
+[![License](https://img.shields.io/github/license/stevencartavia/veil-assets)](https://github.com/stevencartavia/veil-assets/blob/main/LICENSE.md)
 
 # Veil Assets
 
