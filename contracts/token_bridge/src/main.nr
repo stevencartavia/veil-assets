@@ -137,7 +137,7 @@ pub contract TokenBridge {
         let config = storage.config.read();
 
         // Assert that user provided token address is same as seen in storage.
-        assert_eq(config.token, token, "Token address is not the same as seen in storage");
+        ensure(config.token == token, "Token address is not the same as seen in storage");
         // docs:end:assert_token_is_same
 
         // Send an L2 to L1 message
